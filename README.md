@@ -1,5 +1,7 @@
  # SAE Four Project
 
+![Reflow Oven](pictures/reflow_oven.png)
+
 ## Introduction
 This project aims to improve the performance of a reflow oven (Reflow oven) used for the production of SMT boards.
 
